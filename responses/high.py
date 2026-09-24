@@ -1,2 +1,2 @@
 def get_response():
-    return "Awesome! Seems like you're ready for some challenging programming."
+    return "Nice! It seems like today is going to be a hardworking day!"
